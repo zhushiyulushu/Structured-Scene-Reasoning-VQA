@@ -1,0 +1,11 @@
+project_root: "D:/SSR-VQA"
+
+sku_root: "D:/SKU110K_fixed/SKU110K_fixed"
+sku_images: "D:/SKU110K_fixed/SKU110K_fixed/images"
+sku_annotations: "D:/SKU110K_fixed/SKU110K_fixed/annotations"
+
+gap_zip: "D:/gapDetectionDatasets-main.zip"
+gap_root: "D:/gapDetectionDatasets-main"
+
+processed_root: "D:/SSR-VQA/data/processed"
+output_root: "D:/SSR-VQA/outputs"

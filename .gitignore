@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+conda-env/
+
+# Data and outputs
+data/
+outputs/
+checkpoints/
+weights/
+runs/
+logs/
+
+# Large model/result files
+*.pt
+*.pth
+*.pkl
+*.h5
+*.onnx
+*.tar.gz
+*.zip
+*.rar
+*.7z
+
+# System files
+.DS_Store
+Thumbs.db

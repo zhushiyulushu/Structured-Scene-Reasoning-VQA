@@ -1,0 +1,1106 @@
+outputs/checkpoints/learnable_grid_seed_2024/best.pt
+outputs/checkpoints/learnable_grid_seed_3407/best.pt
+outputs/checkpoints/learnable_grid_seed_42/best.pt
+outputs/figures/gap_detection_gt_debug/test/GroZi-120_Test_026.jpg
+outputs/figures/gap_detection_gt_debug/test/GroZi-120_Test_064.jpg
+outputs/figures/gap_detection_gt_debug/test/GroZi-120_Test_071.jpg
+outputs/figures/gap_detection_gt_debug/test/GroZi-120_Test_1160.jpg
+outputs/figures/gap_detection_gt_debug/test/GroZi-120_Test_1190.jpg
+outputs/figures/gap_detection_gt_debug/test/GroZi-120_Test_135.jpg
+outputs/figures/gap_detection_gt_debug/test/GroZi-120_Test_1408.jpg
+outputs/figures/gap_detection_gt_debug/test/GroZi-120_Test_1450.jpg
+outputs/figures/gap_detection_gt_debug/test/GroZi-120_Test_1470.jpg
+outputs/figures/gap_detection_gt_debug/test/GroZi-120_Test_154.jpg
+outputs/figures/gap_detection_gt_debug/test/GroZi-120_Test_1546.jpg
+outputs/figures/gap_detection_gt_debug/test/GroZi-120_Test_159.jpg
+outputs/figures/gap_detection_gt_debug/test/GroZi-120_Test_1706.jpg
+outputs/figures/gap_detection_gt_debug/test/GroZi-120_Test_1796.jpg
+outputs/figures/gap_detection_gt_debug/test/GroZi-120_Test_1812.jpg
+outputs/figures/gap_detection_gt_debug/test/GroZi-120_Test_1944.jpg
+outputs/figures/gap_detection_gt_debug/test/GroZi-120_Test_204.jpg
+outputs/figures/gap_detection_gt_debug/test/GroZi-120_Test_2077.jpg
+outputs/figures/gap_detection_gt_debug/test/GroZi-120_Test_208.jpg
+outputs/figures/gap_detection_gt_debug/test/GroZi-120_Test_2087.jpg
+outputs/figures/gap_detection_gt_debug/train/GroZi-120_Train_100.jpg
+outputs/figures/gap_detection_gt_debug/train/GroZi-120_Train_1826.jpg
+outputs/figures/gap_detection_gt_debug/train/Grocery_Products_Train_109.jpg
+outputs/figures/gap_detection_gt_debug/train/Grocery_Products_Train_111.jpg
+outputs/figures/gap_detection_gt_debug/train/Grocery_Products_Train_113.jpg
+outputs/figures/gap_detection_gt_debug/train/Grocery_Products_Train_13.jpg
+outputs/figures/gap_detection_gt_debug/train/Grocery_Products_Train_139.jpg
+outputs/figures/gap_detection_gt_debug/train/Grocery_Products_Train_150.jpg
+outputs/figures/gap_detection_gt_debug/train/Grocery_Products_Train_167.jpg
+outputs/figures/gap_detection_gt_debug/train/Grocery_Products_Train_175.jpg
+outputs/figures/gap_detection_gt_debug/train/Grocery_Products_Train_2.jpg
+outputs/figures/gap_detection_gt_debug/train/Grocery_Products_Train_52.jpg
+outputs/figures/gap_detection_gt_debug/train/Grocery_Products_Train_6.jpg
+outputs/figures/gap_detection_gt_debug/train/Grocery_Products_Train_76.jpg
+outputs/figures/gap_detection_gt_debug/train/Grocery_Products_Train_77.jpg
+outputs/figures/gap_detection_gt_debug/train/Grocery_Products_Train_78.jpg
+outputs/figures/gap_detection_gt_debug/train/Grocery_Products_Train_9.jpg
+outputs/figures/gap_detection_gt_debug/train/Grocery_Products_Train_99.jpg
+outputs/figures/gap_detection_gt_debug/train/WebMarket_Train_db147.jpg
+outputs/figures/gap_detection_gt_debug/train/WebMarket_Train_db22.jpg
+outputs/figures/gap_detection_gt_debug/val/GroZi-120_Train_1001.jpg
+outputs/figures/gap_detection_gt_debug/val/GroZi-120_Train_112.jpg
+outputs/figures/gap_detection_gt_debug/val/GroZi-120_Train_1350.jpg
+outputs/figures/gap_detection_gt_debug/val/Grocery_Products_Train_104.jpg
+outputs/figures/gap_detection_gt_debug/val/Grocery_Products_Train_112.jpg
+outputs/figures/gap_detection_gt_debug/val/Grocery_Products_Train_118.jpg
+outputs/figures/gap_detection_gt_debug/val/Grocery_Products_Train_122.jpg
+outputs/figures/gap_detection_gt_debug/val/Grocery_Products_Train_149.jpg
+outputs/figures/gap_detection_gt_debug/val/Grocery_Products_Train_177.jpg
+outputs/figures/gap_detection_gt_debug/val/Grocery_Products_Train_19.jpg
+outputs/figures/gap_detection_gt_debug/val/Grocery_Products_Train_21.jpg
+outputs/figures/gap_detection_gt_debug/val/Grocery_Products_Train_27.jpg
+outputs/figures/gap_detection_gt_debug/val/Grocery_Products_Train_60.jpg
+outputs/figures/gap_detection_gt_debug/val/Grocery_Products_Train_62.jpg
+outputs/figures/gap_detection_gt_debug/val/Grocery_Products_Train_63.jpg
+outputs/figures/gap_detection_gt_debug/val/Grocery_Products_Train_92.jpg
+outputs/figures/gap_detection_gt_debug/val/Grocery_Products_Train_96.jpg
+outputs/figures/gap_detection_gt_debug/val/WebMarket_Train_db144.jpg
+outputs/figures/gap_detection_gt_debug/val/WebMarket_Train_db252.jpg
+outputs/figures/gap_detection_gt_debug/val/WebMarket_Train_db270.jpg
+outputs/figures/gap_detection_mask_metric_vis/GroZi-120/000_026.jpg
+outputs/figures/gap_detection_mask_metric_vis/GroZi-120/001_064.jpg
+outputs/figures/gap_detection_mask_metric_vis/GroZi-120/002_071.jpg
+outputs/figures/gap_detection_mask_metric_vis/GroZi-120/003_1160.jpg
+outputs/figures/gap_detection_mask_metric_vis/GroZi-120/004_1190.jpg
+outputs/figures/gap_detection_mask_metric_vis/GroZi-120/005_135.jpg
+outputs/figures/gap_detection_mask_metric_vis/GroZi-120/006_1408.jpg
+outputs/figures/gap_detection_mask_metric_vis/GroZi-120/007_1450.jpg
+outputs/figures/gap_detection_mask_metric_vis/GroZi-120/008_1470.jpg
+outputs/figures/gap_detection_mask_metric_vis/GroZi-120/009_154.jpg
+outputs/figures/gap_detection_mask_metric_vis/GroZi-120/010_1546.jpg
+outputs/figures/gap_detection_mask_metric_vis/GroZi-120/011_159.jpg
+outputs/figures/gap_detection_mask_metric_vis/GroZi-120/012_1706.jpg
+outputs/figures/gap_detection_mask_metric_vis/GroZi-120/013_1796.jpg
+outputs/figures/gap_detection_mask_metric_vis/GroZi-120/014_1812.jpg
+outputs/figures/gap_detection_mask_metric_vis/GroZi-120/015_1944.jpg
+outputs/figures/gap_detection_mask_metric_vis/GroZi-120/016_204.jpg
+outputs/figures/gap_detection_mask_metric_vis/GroZi-120/017_2077.jpg
+outputs/figures/gap_detection_mask_metric_vis/GroZi-120/018_208.jpg
+outputs/figures/gap_detection_mask_metric_vis/GroZi-120/019_2087.jpg
+outputs/figures/gap_detection_mask_metric_vis/Grocery Products/000_1.jpg
+outputs/figures/gap_detection_mask_metric_vis/Grocery Products/001_10.jpg
+outputs/figures/gap_detection_mask_metric_vis/Grocery Products/002_100.jpg
+outputs/figures/gap_detection_mask_metric_vis/Grocery Products/003_101.jpg
+outputs/figures/gap_detection_mask_metric_vis/Grocery Products/004_102.jpg
+outputs/figures/gap_detection_mask_metric_vis/Grocery Products/005_103.jpg
+outputs/figures/gap_detection_mask_metric_vis/Grocery Products/006_104.jpg
+outputs/figures/gap_detection_mask_metric_vis/Grocery Products/007_105.jpg
+outputs/figures/gap_detection_mask_metric_vis/Grocery Products/008_106.jpg
+outputs/figures/gap_detection_mask_metric_vis/Grocery Products/009_107.jpg
+outputs/figures/gap_detection_mask_metric_vis/Grocery Products/010_108.jpg
+outputs/figures/gap_detection_mask_metric_vis/Grocery Products/011_109.jpg
+outputs/figures/gap_detection_mask_metric_vis/Grocery Products/012_11.jpg
+outputs/figures/gap_detection_mask_metric_vis/Grocery Products/013_110.jpg
+outputs/figures/gap_detection_mask_metric_vis/Grocery Products/014_111.jpg
+outputs/figures/gap_detection_mask_metric_vis/Grocery Products/015_112.jpg
+outputs/figures/gap_detection_mask_metric_vis/Grocery Products/016_113.jpg
+outputs/figures/gap_detection_mask_metric_vis/Grocery Products/017_114.jpg
+outputs/figures/gap_detection_mask_metric_vis/Grocery Products/018_115.jpg
+outputs/figures/gap_detection_mask_metric_vis/Grocery Products/019_116.jpg
+outputs/figures/gap_detection_mask_metric_vis/WebMarket/000_db112.jpg
+outputs/figures/gap_detection_mask_metric_vis/WebMarket/001_db113.jpg
+outputs/figures/gap_detection_mask_metric_vis/WebMarket/002_db121.jpg
+outputs/figures/gap_detection_mask_metric_vis/WebMarket/003_db123.jpg
+outputs/figures/gap_detection_mask_metric_vis/WebMarket/004_db124.jpg
+outputs/figures/gap_detection_mask_metric_vis/WebMarket/005_db127.jpg
+outputs/figures/gap_detection_mask_metric_vis/WebMarket/006_db128.jpg
+outputs/figures/gap_detection_mask_metric_vis/WebMarket/007_db130.jpg
+outputs/figures/gap_detection_mask_metric_vis/WebMarket/008_db138.jpg
+outputs/figures/gap_detection_mask_metric_vis/WebMarket/009_db141.jpg
+outputs/figures/gap_detection_mask_metric_vis/WebMarket/010_db145.jpg
+outputs/figures/gap_detection_mask_metric_vis/WebMarket/011_db146.jpg
+outputs/figures/gap_detection_mask_metric_vis/WebMarket/012_db158.jpg
+outputs/figures/gap_detection_mask_metric_vis/WebMarket/013_db160.jpg
+outputs/figures/gap_detection_mask_metric_vis/WebMarket/014_db165.jpg
+outputs/figures/gap_detection_mask_metric_vis/WebMarket/015_db171.jpg
+outputs/figures/gap_detection_mask_metric_vis/WebMarket/016_db172.jpg
+outputs/figures/gap_detection_mask_metric_vis/WebMarket/017_db184.jpg
+outputs/figures/gap_detection_mask_metric_vis/WebMarket/018_db188.jpg
+outputs/figures/gap_detection_mask_metric_vis/WebMarket/019_db193.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Test_Masks_026.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Test_Masks_064.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Test_Masks_071.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Test_Masks_1160.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Test_Masks_1190.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Test_Masks_135.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Test_Masks_1408.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Test_Masks_1450.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Test_Masks_1470.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Test_Masks_154.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Test_Masks_1546.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Test_Masks_159.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Test_Masks_1706.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Test_Masks_1796.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Test_Masks_1812.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Test_Masks_1944.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Test_Masks_204.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Test_Masks_2077.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Test_Masks_208.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Test_Masks_2087.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_001.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_057.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_079.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_089.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_100.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_1001.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_112.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_122.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_127.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_1350.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_1500.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_1610.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_1629.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_1645.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_165.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_1652.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_1686.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_1698.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_1719.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_172.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_1728.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_1740.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_1746.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_176.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_1766.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_1779.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_182.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_1826.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_191.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/GroZi-120/Train_Masks_2060.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_1.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_10.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_100.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_101.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_102.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_103.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_104.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_105.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_106.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_107.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_108.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_109.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_11.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_110.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_111.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_112.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_113.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_114.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_115.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_116.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_117.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_118.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_119.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_12.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_120.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_121.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_13.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_14.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_15.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_16.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_17.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_18.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_19.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_2.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_20.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_21.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_22.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_23.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_24.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_25.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_26.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_27.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_28.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_29.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_3.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_30.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_31.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_32.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_33.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_34.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_35.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_36.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_37.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_38.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_39.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_4.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_40.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_41.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_42.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_43.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_44.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_45.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_46.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_47.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_48.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_49.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_5.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_50.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_51.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_52.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_53.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_54.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_55.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_56.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_57.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_58.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_59.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_6.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_60.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/Grocery Products/Test_Masks_61.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db112.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db113.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db121.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db123.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db124.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db127.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db128.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db130.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db138.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db141.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db145.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db146.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db158.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db160.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db165.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db171.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db172.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db184.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db188.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db193.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db198.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db217.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db224.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db225.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db229.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db232.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db234.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db235.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db236.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db238.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db245.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db246.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db264.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db265.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db292.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db30.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db42.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db51.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Test_Masks_db64.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db102.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db104.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db116.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db117.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db120.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db122.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db129.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db13.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db131.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db132.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db133.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db134.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db135.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db136.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db137.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db139.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db14.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db140.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db142.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db143.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db144.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db147.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db15.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db150.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db159.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db16.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db161.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db166.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db167.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db168.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db169.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db170.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db176.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db177.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db189.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db190.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db22.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db220.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db226.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db228.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_0/WebMarket/Train_Masks_db23.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Test_Masks_026.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Test_Masks_064.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Test_Masks_071.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Test_Masks_1160.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Test_Masks_1190.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Test_Masks_135.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Test_Masks_1408.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Test_Masks_1450.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Test_Masks_1470.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Test_Masks_154.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Test_Masks_1546.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Test_Masks_159.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Test_Masks_1706.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Test_Masks_1796.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Test_Masks_1812.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Test_Masks_1944.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Test_Masks_204.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Test_Masks_2077.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Test_Masks_208.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Test_Masks_2087.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_001.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_057.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_079.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_089.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_100.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_1001.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_112.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_122.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_127.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_1350.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_1500.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_1610.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_1629.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_1645.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_165.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_1652.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_1686.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_1698.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_1719.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_172.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_1728.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_1740.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_1746.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_176.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_1766.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_1779.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_182.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_1826.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_191.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/GroZi-120/Train_Masks_2060.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_1.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_10.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_100.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_101.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_102.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_103.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_104.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_105.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_106.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_107.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_108.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_109.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_11.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_110.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_111.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_112.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_113.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_114.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_115.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_116.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_117.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_118.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_119.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_12.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_120.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_121.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_13.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_14.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_15.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_16.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_17.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_18.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_19.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_2.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_20.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_21.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_22.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_23.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_24.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_25.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_26.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_27.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_28.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_29.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_3.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_30.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_31.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_32.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_33.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_34.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_35.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_36.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_37.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_38.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_39.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_4.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_40.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_41.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_42.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_43.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_44.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_45.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_46.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_47.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_48.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_49.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_5.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_50.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_51.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_52.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_53.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_54.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_55.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_56.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_57.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_58.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_59.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_6.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_60.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/Grocery Products/Test_Masks_61.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db112.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db113.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db121.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db123.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db124.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db127.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db128.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db130.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db138.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db141.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db145.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db146.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db158.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db160.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db165.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db171.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db172.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db184.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db188.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db193.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db198.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db217.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db224.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db225.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db229.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db232.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db234.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db235.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db236.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db238.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db245.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db246.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db264.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db265.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db292.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db30.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db42.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db51.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Test_Masks_db64.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db102.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db104.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db116.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db117.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db120.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db122.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db129.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db13.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db131.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db132.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db133.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db134.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db135.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db136.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db137.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db139.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db14.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db140.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db142.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db143.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db144.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db147.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db15.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db150.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db159.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db16.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db161.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db166.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db167.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db168.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db169.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db170.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db176.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db177.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db189.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db190.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db22.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db220.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db226.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db228.tiff.jpg
+outputs/figures/gap_mask_inspect_invert_1/WebMarket/Train_Masks_db23.tiff.jpg
+outputs/figures/gap_seg_gt_debug/test/GroZi-120_0_026.jpg
+outputs/figures/gap_seg_gt_debug/test/GroZi-120_10_1546.jpg
+outputs/figures/gap_seg_gt_debug/test/GroZi-120_11_159.jpg
+outputs/figures/gap_seg_gt_debug/test/GroZi-120_12_1706.jpg
+outputs/figures/gap_seg_gt_debug/test/GroZi-120_13_1796.jpg
+outputs/figures/gap_seg_gt_debug/test/GroZi-120_14_1812.jpg
+outputs/figures/gap_seg_gt_debug/test/GroZi-120_15_1944.jpg
+outputs/figures/gap_seg_gt_debug/test/GroZi-120_16_204.jpg
+outputs/figures/gap_seg_gt_debug/test/GroZi-120_17_2077.jpg
+outputs/figures/gap_seg_gt_debug/test/GroZi-120_18_208.jpg
+outputs/figures/gap_seg_gt_debug/test/GroZi-120_19_2087.jpg
+outputs/figures/gap_seg_gt_debug/test/GroZi-120_1_064.jpg
+outputs/figures/gap_seg_gt_debug/test/GroZi-120_2_071.jpg
+outputs/figures/gap_seg_gt_debug/test/GroZi-120_3_1160.jpg
+outputs/figures/gap_seg_gt_debug/test/GroZi-120_4_1190.jpg
+outputs/figures/gap_seg_gt_debug/test/GroZi-120_5_135.jpg
+outputs/figures/gap_seg_gt_debug/test/GroZi-120_6_1408.jpg
+outputs/figures/gap_seg_gt_debug/test/GroZi-120_7_1450.jpg
+outputs/figures/gap_seg_gt_debug/test/GroZi-120_8_1470.jpg
+outputs/figures/gap_seg_gt_debug/test/GroZi-120_9_154.jpg
+outputs/figures/gap_seg_gt_debug/test/Grocery_Products_20_1.jpg
+outputs/figures/gap_seg_gt_debug/test/Grocery_Products_21_10.jpg
+outputs/figures/gap_seg_gt_debug/test/Grocery_Products_22_100.jpg
+outputs/figures/gap_seg_gt_debug/test/Grocery_Products_23_101.jpg
+outputs/figures/gap_seg_gt_debug/test/Grocery_Products_24_102.jpg
+outputs/figures/gap_seg_gt_debug/test/Grocery_Products_25_103.jpg
+outputs/figures/gap_seg_gt_debug/test/Grocery_Products_26_104.jpg
+outputs/figures/gap_seg_gt_debug/test/Grocery_Products_27_105.jpg
+outputs/figures/gap_seg_gt_debug/test/Grocery_Products_28_106.jpg
+outputs/figures/gap_seg_gt_debug/test/Grocery_Products_29_107.jpg
+outputs/figures/gap_seg_gt_debug/train/GroZi-120_18_1826.jpg
+outputs/figures/gap_seg_gt_debug/train/GroZi-120_22_1740.jpg
+outputs/figures/gap_seg_gt_debug/train/GroZi-120_7_100.jpg
+outputs/figures/gap_seg_gt_debug/train/Grocery_Products_0_131.jpg
+outputs/figures/gap_seg_gt_debug/train/Grocery_Products_12_38.jpg
+outputs/figures/gap_seg_gt_debug/train/Grocery_Products_13_165.jpg
+outputs/figures/gap_seg_gt_debug/train/Grocery_Products_14_118.jpg
+outputs/figures/gap_seg_gt_debug/train/Grocery_Products_16_167.jpg
+outputs/figures/gap_seg_gt_debug/train/Grocery_Products_17_162.jpg
+outputs/figures/gap_seg_gt_debug/train/Grocery_Products_19_73.jpg
+outputs/figures/gap_seg_gt_debug/train/Grocery_Products_1_183.jpg
+outputs/figures/gap_seg_gt_debug/train/Grocery_Products_20_28.jpg
+outputs/figures/gap_seg_gt_debug/train/Grocery_Products_21_97.jpg
+outputs/figures/gap_seg_gt_debug/train/Grocery_Products_23_135.jpg
+outputs/figures/gap_seg_gt_debug/train/Grocery_Products_24_126.jpg
+outputs/figures/gap_seg_gt_debug/train/Grocery_Products_25_180.jpg
+outputs/figures/gap_seg_gt_debug/train/Grocery_Products_26_71.jpg
+outputs/figures/gap_seg_gt_debug/train/Grocery_Products_27_22.jpg
+outputs/figures/gap_seg_gt_debug/train/Grocery_Products_28_6.jpg
+outputs/figures/gap_seg_gt_debug/train/Grocery_Products_2_62.jpg
+outputs/figures/gap_seg_gt_debug/train/Grocery_Products_3_54.jpg
+outputs/figures/gap_seg_gt_debug/train/Grocery_Products_8_26.jpg
+outputs/figures/gap_seg_gt_debug/train/WebMarket_10_db251.jpg
+outputs/figures/gap_seg_gt_debug/train/WebMarket_11_db50.jpg
+outputs/figures/gap_seg_gt_debug/train/WebMarket_15_db177.jpg
+outputs/figures/gap_seg_gt_debug/train/WebMarket_29_db159.jpg
+outputs/figures/gap_seg_gt_debug/train/WebMarket_4_db139.jpg
+outputs/figures/gap_seg_gt_debug/train/WebMarket_5_db189.jpg
+outputs/figures/gap_seg_gt_debug/train/WebMarket_6_db130.jpg
+outputs/figures/gap_seg_gt_debug/train/WebMarket_9_db190.jpg
+outputs/figures/gap_seg_gt_debug/val/GroZi-120_1_1001.jpg
+outputs/figures/gap_seg_gt_debug/val/GroZi-120_7_1350.jpg
+outputs/figures/gap_seg_gt_debug/val/GroZi-120_8_112.jpg
+outputs/figures/gap_seg_gt_debug/val/Grocery_Products_0_72.jpg
+outputs/figures/gap_seg_gt_debug/val/Grocery_Products_13_64.jpg
+outputs/figures/gap_seg_gt_debug/val/Grocery_Products_14_171.jpg
+outputs/figures/gap_seg_gt_debug/val/Grocery_Products_15_166.jpg
+outputs/figures/gap_seg_gt_debug/val/Grocery_Products_16_148.jpg
+outputs/figures/gap_seg_gt_debug/val/Grocery_Products_17_117.jpg
+outputs/figures/gap_seg_gt_debug/val/Grocery_Products_18_176.jpg
+outputs/figures/gap_seg_gt_debug/val/Grocery_Products_19_36.jpg
+outputs/figures/gap_seg_gt_debug/val/Grocery_Products_21_51.jpg
+outputs/figures/gap_seg_gt_debug/val/Grocery_Products_22_9.jpg
+outputs/figures/gap_seg_gt_debug/val/Grocery_Products_23_115.jpg
+outputs/figures/gap_seg_gt_debug/val/Grocery_Products_24_168.jpg
+outputs/figures/gap_seg_gt_debug/val/Grocery_Products_26_95.jpg
+outputs/figures/gap_seg_gt_debug/val/Grocery_Products_27_87.jpg
+outputs/figures/gap_seg_gt_debug/val/Grocery_Products_28_44.jpg
+outputs/figures/gap_seg_gt_debug/val/Grocery_Products_3_80.jpg
+outputs/figures/gap_seg_gt_debug/val/Grocery_Products_4_75.jpg
+outputs/figures/gap_seg_gt_debug/val/Grocery_Products_5_158.jpg
+outputs/figures/gap_seg_gt_debug/val/Grocery_Products_6_143.jpg
+outputs/figures/gap_seg_gt_debug/val/WebMarket_10_db141.jpg
+outputs/figures/gap_seg_gt_debug/val/WebMarket_11_db271.jpg
+outputs/figures/gap_seg_gt_debug/val/WebMarket_12_db143.jpg
+outputs/figures/gap_seg_gt_debug/val/WebMarket_20_db140.jpg
+outputs/figures/gap_seg_gt_debug/val/WebMarket_25_db150.jpg
+outputs/figures/gap_seg_gt_debug/val/WebMarket_29_db120.jpg
+outputs/figures/gap_seg_gt_debug/val/WebMarket_2_db256.jpg
+outputs/figures/gap_seg_gt_debug/val/WebMarket_9_db142.jpg
+outputs/figures/paper_figures/fig3_loss_accuracy_combined.pdf
+outputs/figures/paper_figures/fig3_loss_accuracy_combined.png
+outputs/figures/paper_figures/fig3_training_curve_mean.png
+outputs/figures/paper_figures/fig3a_training_loss_curves.pdf
+outputs/figures/paper_figures/fig3a_training_loss_curves.png
+outputs/figures/paper_figures/fig3b_validation_f1_curves.pdf
+outputs/figures/paper_figures/fig3b_validation_f1_curves.png
+outputs/figures/paper_figures/fig4_comparison_seed_bars.png
+outputs/figures/paper_figures/fig4_comparison_seed_bars_no_blip.pdf
+outputs/figures/paper_figures/fig4_comparison_seed_bars_no_blip.png
+outputs/figures/paper_figures/fig4_comparison_seed_bars_paper_style.pdf
+outputs/figures/paper_figures/fig4_comparison_seed_bars_paper_style.png
+outputs/figures/real_sku_gap_candidates/test/test_0_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1000_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1001_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1002_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1004_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1005_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1006_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1007_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1008_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1009_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_100_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1010_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1012_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1013_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1014_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1015_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1016_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1017_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1018_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1019_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_101_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1020_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1021_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1022_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1023_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1024_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1025_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1026_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1028_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1029_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_102_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1030_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1031_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1032_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1033_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1034_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1035_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1038_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1039_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_103_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1040_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1041_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1042_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1043_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1044_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1045_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1046_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1047_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1048_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1049_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_104_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1050_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1053_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1054_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1055_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1056_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1057_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1058_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1059_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1060_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1061_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1062_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1063_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1064_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1065_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1066_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1067_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1068_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1069_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_106_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_10_real_gap_candidates.jpg
+outputs/figures/real_sku_gap_candidates/test/test_1_real_gap_candidates.jpg
+outputs/figures/training_curves/learnable_grid_loss_seed_2024.png
+outputs/figures/training_curves/learnable_grid_loss_seed_3407.png
+outputs/figures/training_curves/learnable_grid_loss_seed_42.png
+outputs/figures/training_curves/learnable_grid_val_seed_2024.png
+outputs/figures/training_curves/learnable_grid_val_seed_3407.png
+outputs/figures/training_curves/learnable_grid_val_seed_42.png
+outputs/gap_seg/yolov8n_gapseg_50ep/BoxF1_curve.png
+outputs/gap_seg/yolov8n_gapseg_50ep/BoxPR_curve.png
+outputs/gap_seg/yolov8n_gapseg_50ep/BoxP_curve.png
+outputs/gap_seg/yolov8n_gapseg_50ep/BoxR_curve.png
+outputs/gap_seg/yolov8n_gapseg_50ep/MaskF1_curve.png
+outputs/gap_seg/yolov8n_gapseg_50ep/MaskPR_curve.png
+outputs/gap_seg/yolov8n_gapseg_50ep/MaskP_curve.png
+outputs/gap_seg/yolov8n_gapseg_50ep/MaskR_curve.png
+outputs/gap_seg/yolov8n_gapseg_50ep/args.yaml
+outputs/gap_seg/yolov8n_gapseg_50ep/confusion_matrix.png
+outputs/gap_seg/yolov8n_gapseg_50ep/confusion_matrix_normalized.png
+outputs/gap_seg/yolov8n_gapseg_50ep/labels.jpg
+outputs/gap_seg/yolov8n_gapseg_50ep/results.csv
+outputs/gap_seg/yolov8n_gapseg_50ep/results.png
+outputs/gap_seg/yolov8n_gapseg_50ep/train_batch0.jpg
+outputs/gap_seg/yolov8n_gapseg_50ep/train_batch1.jpg
+outputs/gap_seg/yolov8n_gapseg_50ep/train_batch1120.jpg
+outputs/gap_seg/yolov8n_gapseg_50ep/train_batch1121.jpg
+outputs/gap_seg/yolov8n_gapseg_50ep/train_batch1122.jpg
+outputs/gap_seg/yolov8n_gapseg_50ep/train_batch2.jpg
+outputs/gap_seg/yolov8n_gapseg_50ep/val_batch0_labels.jpg
+outputs/gap_seg/yolov8n_gapseg_50ep/val_batch0_pred.jpg
+outputs/gap_seg/yolov8n_gapseg_50ep/val_batch1_labels.jpg
+outputs/gap_seg/yolov8n_gapseg_50ep/val_batch1_pred.jpg
+outputs/gap_seg/yolov8n_gapseg_50ep/val_batch2_labels.jpg
+outputs/gap_seg/yolov8n_gapseg_50ep/val_batch2_pred.jpg
+outputs/gap_seg/yolov8n_gapseg_50ep/weights/best.pt
+outputs/gap_seg/yolov8n_gapseg_50ep/weights/last.pt
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/BoxF1_curve.png
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/BoxPR_curve.png
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/BoxP_curve.png
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/BoxR_curve.png
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/MaskF1_curve.png
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/MaskPR_curve.png
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/MaskP_curve.png
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/MaskR_curve.png
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/args.yaml
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/confusion_matrix.png
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/confusion_matrix_normalized.png
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/labels.jpg
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/results.csv
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/results.png
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/train_batch0.jpg
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/train_batch1.jpg
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/train_batch1960.jpg
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/train_batch1961.jpg
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/train_batch1962.jpg
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/train_batch2.jpg
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/val_batch0_labels.jpg
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/val_batch0_pred.jpg
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/val_batch1_labels.jpg
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/val_batch1_pred.jpg
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/val_batch2_labels.jpg
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/val_batch2_pred.jpg
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/weights/best.pt
+outputs/gap_seg/yolov8n_gapseg_finetune_960_80ep/weights/last.pt
+outputs/gap_seg/yolov8s_gapseg_100ep/BoxF1_curve.png
+outputs/gap_seg/yolov8s_gapseg_100ep/BoxPR_curve.png
+outputs/gap_seg/yolov8s_gapseg_100ep/BoxP_curve.png
+outputs/gap_seg/yolov8s_gapseg_100ep/BoxR_curve.png
+outputs/gap_seg/yolov8s_gapseg_100ep/MaskF1_curve.png
+outputs/gap_seg/yolov8s_gapseg_100ep/MaskPR_curve.png
+outputs/gap_seg/yolov8s_gapseg_100ep/MaskP_curve.png
+outputs/gap_seg/yolov8s_gapseg_100ep/MaskR_curve.png
+outputs/gap_seg/yolov8s_gapseg_100ep/args.yaml
+outputs/gap_seg/yolov8s_gapseg_100ep/confusion_matrix.png
+outputs/gap_seg/yolov8s_gapseg_100ep/confusion_matrix_normalized.png
+outputs/gap_seg/yolov8s_gapseg_100ep/labels.jpg
+outputs/gap_seg/yolov8s_gapseg_100ep/results.csv
+outputs/gap_seg/yolov8s_gapseg_100ep/results.png
+outputs/gap_seg/yolov8s_gapseg_100ep/train_batch0.jpg
+outputs/gap_seg/yolov8s_gapseg_100ep/train_batch1.jpg
+outputs/gap_seg/yolov8s_gapseg_100ep/train_batch2.jpg
+outputs/gap_seg/yolov8s_gapseg_100ep/train_batch2520.jpg
+outputs/gap_seg/yolov8s_gapseg_100ep/train_batch2521.jpg
+outputs/gap_seg/yolov8s_gapseg_100ep/train_batch2522.jpg
+outputs/gap_seg/yolov8s_gapseg_100ep/val_batch0_labels.jpg
+outputs/gap_seg/yolov8s_gapseg_100ep/val_batch0_pred.jpg
+outputs/gap_seg/yolov8s_gapseg_100ep/val_batch1_labels.jpg
+outputs/gap_seg/yolov8s_gapseg_100ep/val_batch1_pred.jpg
+outputs/gap_seg/yolov8s_gapseg_100ep/val_batch2_labels.jpg
+outputs/gap_seg/yolov8s_gapseg_100ep/val_batch2_pred.jpg
+outputs/gap_seg/yolov8s_gapseg_100ep/weights/best.pt
+outputs/gap_seg/yolov8s_gapseg_100ep/weights/last.pt
+outputs/logs/learnable_grid_train_seed_2024.csv
+outputs/logs/learnable_grid_train_seed_3407.csv
+outputs/logs/learnable_grid_train_seed_42.csv
+outputs/results/ablation_wo_deep_reasoning_seed_2024.json
+outputs/results/ablation_wo_deep_reasoning_seed_3407.json
+outputs/results/ablation_wo_deep_reasoning_seed_42.json
+outputs/results/ablation_wo_semantic.json
+outputs/results/blip_baseline_test_-1.csv
+outputs/results/blip_baseline_test_1000.csv
+outputs/results/blip_baseline_test_200.csv
+outputs/results/blip_baseline_test_40.csv
+outputs/results/gap_detection_mask_metric_detail.csv
+outputs/results/gap_detection_yolo_test.json
+outputs/results/gap_seg_pixel_detail_test_conf_0.15.csv
+outputs/results/gap_seg_pixel_detail_test_conf_0.2.csv
+outputs/results/learnable_grid_test_seed_2024.json
+outputs/results/learnable_grid_test_seed_3407.json
+outputs/results/learnable_grid_test_seed_42.json
+outputs/results/learnable_grid_train_seed_2024.json
+outputs/results/learnable_grid_train_seed_3407.json
+outputs/results/learnable_grid_train_seed_42.json
+outputs/results/learnable_grid_val_seed_2024.json
+outputs/results/learnable_grid_val_seed_3407.json
+outputs/results/learnable_grid_val_seed_42.json
+outputs/results/oracle_dsi_test.json
+outputs/results/oracle_dsi_train.json
+outputs/results/oracle_dsi_val.json
+outputs/results/ours_ssr_grid_test_seed_2024.json
+outputs/results/ours_ssr_grid_test_seed_3407.json
+outputs/results/ours_ssr_grid_test_seed_42.json
+outputs/results/retaildet_style_yolo_test.json
+outputs/results/retaildet_style_yolo_test_conf_0p30.json
+outputs/results/ssr_full_fusion_test_no_pred_fallback.json
+outputs/results/ssr_full_fusion_test_union.json
+outputs/results/table3_gap_detection_detail.csv
+outputs/results/table5_vqa_answer_quality_detail.csv
+outputs/results/table5_vqa_answer_quality_detail_seed_2024.csv
+outputs/results/table5_vqa_answer_quality_detail_seed_3407.csv
+outputs/results/table5_vqa_answer_quality_detail_seed_42.csv
+outputs/results/yoloworld_visual_test_seed_2024.json
+outputs/results/yoloworld_visual_test_seed_3407.json
+outputs/results/yoloworld_visual_test_seed_42.json
+outputs/retaildet_style/yolov8n_joint_10ep/args.yaml
+outputs/retaildet_style/yolov8n_joint_10ep_ampoff/BoxF1_curve.png
+outputs/retaildet_style/yolov8n_joint_10ep_ampoff/BoxPR_curve.png
+outputs/retaildet_style/yolov8n_joint_10ep_ampoff/BoxP_curve.png
+outputs/retaildet_style/yolov8n_joint_10ep_ampoff/BoxR_curve.png
+outputs/retaildet_style/yolov8n_joint_10ep_ampoff/args.yaml
+outputs/retaildet_style/yolov8n_joint_10ep_ampoff/confusion_matrix.png
+outputs/retaildet_style/yolov8n_joint_10ep_ampoff/confusion_matrix_normalized.png
+outputs/retaildet_style/yolov8n_joint_10ep_ampoff/labels.jpg
+outputs/retaildet_style/yolov8n_joint_10ep_ampoff/results.csv
+outputs/retaildet_style/yolov8n_joint_10ep_ampoff/results.png
+outputs/retaildet_style/yolov8n_joint_10ep_ampoff/train_batch0.jpg
+outputs/retaildet_style/yolov8n_joint_10ep_ampoff/train_batch1.jpg
+outputs/retaildet_style/yolov8n_joint_10ep_ampoff/train_batch2.jpg
+outputs/retaildet_style/yolov8n_joint_10ep_ampoff/val_batch0_labels.jpg
+outputs/retaildet_style/yolov8n_joint_10ep_ampoff/val_batch0_pred.jpg
+outputs/retaildet_style/yolov8n_joint_10ep_ampoff/val_batch1_labels.jpg
+outputs/retaildet_style/yolov8n_joint_10ep_ampoff/val_batch1_pred.jpg
+outputs/retaildet_style/yolov8n_joint_10ep_ampoff/val_batch2_labels.jpg
+outputs/retaildet_style/yolov8n_joint_10ep_ampoff/val_batch2_pred.jpg
+outputs/retaildet_style/yolov8n_joint_10ep_ampoff/weights/best.pt
+outputs/retaildet_style/yolov8n_joint_10ep_ampoff/weights/last.pt
+outputs/retaildet_style/yolov8n_joint_20ep/BoxF1_curve.png
+outputs/retaildet_style/yolov8n_joint_20ep/BoxPR_curve.png
+outputs/retaildet_style/yolov8n_joint_20ep/BoxP_curve.png
+outputs/retaildet_style/yolov8n_joint_20ep/BoxR_curve.png
+outputs/retaildet_style/yolov8n_joint_20ep/args.yaml
+outputs/retaildet_style/yolov8n_joint_20ep/confusion_matrix.png
+outputs/retaildet_style/yolov8n_joint_20ep/confusion_matrix_normalized.png
+outputs/retaildet_style/yolov8n_joint_20ep/labels.jpg
+outputs/retaildet_style/yolov8n_joint_20ep/results.csv
+outputs/retaildet_style/yolov8n_joint_20ep/results.png
+outputs/retaildet_style/yolov8n_joint_20ep/train_batch0.jpg
+outputs/retaildet_style/yolov8n_joint_20ep/train_batch1.jpg
+outputs/retaildet_style/yolov8n_joint_20ep/train_batch2.jpg
+outputs/retaildet_style/yolov8n_joint_20ep/train_batch5000.jpg
+outputs/retaildet_style/yolov8n_joint_20ep/train_batch5001.jpg
+outputs/retaildet_style/yolov8n_joint_20ep/train_batch5002.jpg
+outputs/retaildet_style/yolov8n_joint_20ep/val_batch0_labels.jpg
+outputs/retaildet_style/yolov8n_joint_20ep/val_batch0_pred.jpg
+outputs/retaildet_style/yolov8n_joint_20ep/val_batch1_labels.jpg
+outputs/retaildet_style/yolov8n_joint_20ep/val_batch1_pred.jpg
+outputs/retaildet_style/yolov8n_joint_20ep/val_batch2_labels.jpg
+outputs/retaildet_style/yolov8n_joint_20ep/val_batch2_pred.jpg
+outputs/retaildet_style/yolov8n_joint_20ep/weights/best.pt
+outputs/retaildet_style/yolov8n_joint_20ep/weights/last.pt
+outputs/tables/ablation_wo_deep_reasoning_seed_2024.csv
+outputs/tables/ablation_wo_deep_reasoning_seed_3407.csv
+outputs/tables/ablation_wo_deep_reasoning_seed_42.csv
+outputs/tables/ablation_wo_semantic.csv
+outputs/tables/baseline_comparison_iou_only_test.csv
+outputs/tables/blip_baseline_summary_test_-1.csv
+outputs/tables/blip_baseline_summary_test_1000.csv
+outputs/tables/blip_baseline_summary_test_200.csv
+outputs/tables/blip_baseline_summary_test_40.csv
+outputs/tables/fig4_no_blip_seed_values.csv
+outputs/tables/gap_detection_conf_sweep_summary.csv
+outputs/tables/gap_detection_yolo_test.csv
+outputs/tables/gap_seg_per_domain_tuning_sweep.csv
+outputs/tables/gap_seg_pixel_summary_test_conf_0.15.csv
+outputs/tables/gap_seg_pixel_summary_test_conf_0.2.csv
+outputs/tables/gap_seg_pixel_sweep_val.csv
+outputs/tables/gap_seg_val_tuning_sweep.csv
+outputs/tables/gap_sweep/gap_detection_conf_0p001_invert_0.csv
+outputs/tables/gap_sweep/gap_detection_conf_0p001_invert_1.csv
+outputs/tables/gap_sweep/gap_detection_conf_0p003_invert_0.csv
+outputs/tables/gap_sweep/gap_detection_conf_0p003_invert_1.csv
+outputs/tables/gap_sweep/gap_detection_conf_0p005_invert_0.csv
+outputs/tables/gap_sweep/gap_detection_conf_0p005_invert_1.csv
+outputs/tables/gap_sweep/gap_detection_conf_0p01_invert_0.csv
+outputs/tables/gap_sweep/gap_detection_conf_0p01_invert_1.csv
+outputs/tables/gap_sweep/gap_detection_conf_0p03_invert_0.csv
+outputs/tables/gap_sweep/gap_detection_conf_0p03_invert_1.csv
+outputs/tables/gap_sweep/gap_detection_conf_0p05_invert_0.csv
+outputs/tables/gap_sweep/gap_detection_conf_0p05_invert_1.csv
+outputs/tables/gap_sweep/gap_detection_conf_0p10_invert_0.csv
+outputs/tables/gap_sweep/gap_detection_conf_0p10_invert_1.csv
+outputs/tables/gap_sweep/gap_detection_conf_0p30_invert_0.csv
+outputs/tables/gap_sweep/gap_detection_conf_0p30_invert_1.csv
+outputs/tables/learnable_grid_all_seeds.csv
+outputs/tables/learnable_grid_mean_std.csv
+outputs/tables/learnable_grid_summary_seed_2024.csv
+outputs/tables/learnable_grid_summary_seed_3407.csv
+outputs/tables/learnable_grid_summary_seed_42.csv
+outputs/tables/oracle_dsi_summary.csv
+outputs/tables/ours_ssr_grid_test_seed_2024.csv
+outputs/tables/ours_ssr_grid_test_seed_3407.csv
+outputs/tables/ours_ssr_grid_test_seed_42.csv
+outputs/tables/real_sku_gap_candidates_test.csv
+outputs/tables/retaildet_style_yolo_conf_tuning_val.csv
+outputs/tables/retaildet_style_yolo_test.csv
+outputs/tables/retaildet_style_yolo_test_conf_0p30.csv
+outputs/tables/retaildet_style_yolo_test_val_tuned.csv
+outputs/tables/ssr_full_fusion_test_no_pred_fallback.csv
+outputs/tables/ssr_full_fusion_test_union.csv
+outputs/tables/table2_comparison_final.csv
+outputs/tables/table2_comparison_seed_results.csv
+outputs/tables/table2_localization_final.csv
+outputs/tables/table2_main_with_blip_final.csv
+outputs/tables/table2_missing_localization.csv
+outputs/tables/table2_missing_localization_final.csv
+outputs/tables/table2_prf_final.csv
+outputs/tables/table3_cross_domain_final.csv
+outputs/tables/table3_cross_domain_paper.csv
+outputs/tables/table3_cross_domain_paper_final.csv
+outputs/tables/table3_cross_domain_per_domain_final.csv
+outputs/tables/table3_gap_detection_dataset_final.csv
+outputs/tables/table3_gap_detection_final.csv
+outputs/tables/table3_gap_detection_mask_metric.csv
+outputs/tables/table3_structured_vqa.csv
+outputs/tables/table4_ablation.csv
+outputs/tables/table4_ablation_prf_final.csv
+outputs/tables/table5_structured_vqa_final.csv
+outputs/tables/table5_vqa_answer_quality_all_seeds_raw.csv
+outputs/tables/table5_vqa_answer_quality_final.csv
+outputs/tables/table5_vqa_answer_quality_final.csv.meta.json
+outputs/tables/table5_vqa_answer_quality_final_3seed.csv
+outputs/tables/table5_vqa_answer_quality_final_invalid_proxy.csv
+outputs/tables/table5_vqa_answer_quality_final_invalid_proxy.meta.json
+outputs/tables/table5_vqa_answer_quality_seed_2024.csv
+outputs/tables/table5_vqa_answer_quality_seed_2024.csv.meta.json
+outputs/tables/table5_vqa_answer_quality_seed_3407.csv
+outputs/tables/table5_vqa_answer_quality_seed_3407.csv.meta.json
+outputs/tables/table5_vqa_answer_quality_seed_42.csv
+outputs/tables/table5_vqa_answer_quality_seed_42.csv.meta.json
+outputs/tables/table5_vqa_qualitative_examples.csv
+outputs/tables/yoloworld_visual_test_seed_2024.csv
+outputs/tables/yoloworld_visual_test_seed_3407.csv
+outputs/tables/yoloworld_visual_test_seed_42.csv
+outputs/yoloworld_visual/yoloworld_joint_seed_2024-2/BoxF1_curve.png
+outputs/yoloworld_visual/yoloworld_joint_seed_2024-2/BoxPR_curve.png
+outputs/yoloworld_visual/yoloworld_joint_seed_2024-2/BoxP_curve.png
+outputs/yoloworld_visual/yoloworld_joint_seed_2024-2/BoxR_curve.png
+outputs/yoloworld_visual/yoloworld_joint_seed_2024-2/args.yaml
+outputs/yoloworld_visual/yoloworld_joint_seed_2024-2/confusion_matrix.png
+outputs/yoloworld_visual/yoloworld_joint_seed_2024-2/confusion_matrix_normalized.png
+outputs/yoloworld_visual/yoloworld_joint_seed_2024-2/labels.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_2024-2/results.csv
+outputs/yoloworld_visual/yoloworld_joint_seed_2024-2/results.png
+outputs/yoloworld_visual/yoloworld_joint_seed_2024-2/train_batch0.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_2024-2/train_batch1.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_2024-2/train_batch10000.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_2024-2/train_batch10001.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_2024-2/train_batch10002.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_2024-2/train_batch2.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_2024-2/val_batch0_labels.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_2024-2/val_batch0_pred.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_2024-2/val_batch1_labels.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_2024-2/val_batch1_pred.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_2024-2/val_batch2_labels.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_2024-2/val_batch2_pred.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_2024-2/weights/best.pt
+outputs/yoloworld_visual/yoloworld_joint_seed_2024-2/weights/last.pt
+outputs/yoloworld_visual/yoloworld_joint_seed_2024/BoxF1_curve.png
+outputs/yoloworld_visual/yoloworld_joint_seed_2024/BoxPR_curve.png
+outputs/yoloworld_visual/yoloworld_joint_seed_2024/BoxP_curve.png
+outputs/yoloworld_visual/yoloworld_joint_seed_2024/BoxR_curve.png
+outputs/yoloworld_visual/yoloworld_joint_seed_2024/args.yaml
+outputs/yoloworld_visual/yoloworld_joint_seed_2024/confusion_matrix.png
+outputs/yoloworld_visual/yoloworld_joint_seed_2024/confusion_matrix_normalized.png
+outputs/yoloworld_visual/yoloworld_joint_seed_2024/labels.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_2024/results.csv
+outputs/yoloworld_visual/yoloworld_joint_seed_2024/results.png
+outputs/yoloworld_visual/yoloworld_joint_seed_2024/train_batch0.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_2024/train_batch1.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_2024/train_batch10000.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_2024/train_batch10001.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_2024/train_batch10002.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_2024/train_batch2.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_2024/val_batch0_labels.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_2024/val_batch0_pred.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_2024/val_batch1_labels.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_2024/val_batch1_pred.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_2024/val_batch2_labels.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_2024/val_batch2_pred.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_2024/weights/best.pt
+outputs/yoloworld_visual/yoloworld_joint_seed_2024/weights/last.pt
+outputs/yoloworld_visual/yoloworld_joint_seed_3407-2/BoxF1_curve.png
+outputs/yoloworld_visual/yoloworld_joint_seed_3407-2/BoxPR_curve.png
+outputs/yoloworld_visual/yoloworld_joint_seed_3407-2/BoxP_curve.png
+outputs/yoloworld_visual/yoloworld_joint_seed_3407-2/BoxR_curve.png
+outputs/yoloworld_visual/yoloworld_joint_seed_3407-2/args.yaml
+outputs/yoloworld_visual/yoloworld_joint_seed_3407-2/confusion_matrix.png
+outputs/yoloworld_visual/yoloworld_joint_seed_3407-2/confusion_matrix_normalized.png
+outputs/yoloworld_visual/yoloworld_joint_seed_3407-2/labels.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_3407-2/results.csv
+outputs/yoloworld_visual/yoloworld_joint_seed_3407-2/results.png
+outputs/yoloworld_visual/yoloworld_joint_seed_3407-2/train_batch0.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_3407-2/train_batch1.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_3407-2/train_batch10000.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_3407-2/train_batch10001.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_3407-2/train_batch10002.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_3407-2/train_batch2.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_3407-2/val_batch0_labels.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_3407-2/val_batch0_pred.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_3407-2/val_batch1_labels.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_3407-2/val_batch1_pred.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_3407-2/val_batch2_labels.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_3407-2/val_batch2_pred.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_3407-2/weights/best.pt
+outputs/yoloworld_visual/yoloworld_joint_seed_3407-2/weights/last.pt
+outputs/yoloworld_visual/yoloworld_joint_seed_3407/args.yaml
+outputs/yoloworld_visual/yoloworld_joint_seed_3407/labels.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_3407/results.csv
+outputs/yoloworld_visual/yoloworld_joint_seed_3407/train_batch0.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_3407/train_batch1.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_3407/train_batch2.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_3407/weights/best.pt
+outputs/yoloworld_visual/yoloworld_joint_seed_3407/weights/last.pt
+outputs/yoloworld_visual/yoloworld_joint_seed_42-2/BoxF1_curve.png
+outputs/yoloworld_visual/yoloworld_joint_seed_42-2/BoxPR_curve.png
+outputs/yoloworld_visual/yoloworld_joint_seed_42-2/BoxP_curve.png
+outputs/yoloworld_visual/yoloworld_joint_seed_42-2/BoxR_curve.png
+outputs/yoloworld_visual/yoloworld_joint_seed_42-2/args.yaml
+outputs/yoloworld_visual/yoloworld_joint_seed_42-2/confusion_matrix.png
+outputs/yoloworld_visual/yoloworld_joint_seed_42-2/confusion_matrix_normalized.png
+outputs/yoloworld_visual/yoloworld_joint_seed_42-2/labels.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_42-2/results.csv
+outputs/yoloworld_visual/yoloworld_joint_seed_42-2/results.png
+outputs/yoloworld_visual/yoloworld_joint_seed_42-2/train_batch0.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_42-2/train_batch1.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_42-2/train_batch10000.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_42-2/train_batch10001.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_42-2/train_batch10002.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_42-2/train_batch2.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_42-2/val_batch0_labels.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_42-2/val_batch0_pred.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_42-2/val_batch1_labels.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_42-2/val_batch1_pred.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_42-2/val_batch2_labels.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_42-2/val_batch2_pred.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_42-2/weights/best.pt
+outputs/yoloworld_visual/yoloworld_joint_seed_42-2/weights/last.pt
+outputs/yoloworld_visual/yoloworld_joint_seed_42/BoxF1_curve.png
+outputs/yoloworld_visual/yoloworld_joint_seed_42/BoxPR_curve.png
+outputs/yoloworld_visual/yoloworld_joint_seed_42/BoxP_curve.png
+outputs/yoloworld_visual/yoloworld_joint_seed_42/BoxR_curve.png
+outputs/yoloworld_visual/yoloworld_joint_seed_42/args.yaml
+outputs/yoloworld_visual/yoloworld_joint_seed_42/confusion_matrix.png
+outputs/yoloworld_visual/yoloworld_joint_seed_42/confusion_matrix_normalized.png
+outputs/yoloworld_visual/yoloworld_joint_seed_42/labels.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_42/results.csv
+outputs/yoloworld_visual/yoloworld_joint_seed_42/results.png
+outputs/yoloworld_visual/yoloworld_joint_seed_42/train_batch0.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_42/train_batch1.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_42/train_batch10000.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_42/train_batch10001.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_42/train_batch10002.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_42/train_batch2.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_42/val_batch0_labels.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_42/val_batch0_pred.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_42/val_batch1_labels.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_42/val_batch1_pred.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_42/val_batch2_labels.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_42/val_batch2_pred.jpg
+outputs/yoloworld_visual/yoloworld_joint_seed_42/weights/best.pt
+outputs/yoloworld_visual/yoloworld_joint_seed_42/weights/last.pt

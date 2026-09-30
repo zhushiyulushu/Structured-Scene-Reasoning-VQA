@@ -1,0 +1,49 @@
+{
+  "gate": "PASS_VQA_PROTOCOL_FREEZE_READY",
+  "test_opened": false,
+  "protocol": "balanced region-grounded structured VQA",
+  "gate0_top1_conf": 0.03,
+  "selected_on_val": {
+    "product_conf": 0.1,
+    "vertical_overlap": 0.2,
+    "distance_factor": 3.0
+  },
+  "val_summary": [
+    {
+      "type": "Count",
+      "n": 564,
+      "EM": 0.9645390070921985,
+      "TokenF1": 0.9645390070921985,
+      "BLEU1": 0.9645390070921985
+    },
+    {
+      "type": "Verify",
+      "n": 564,
+      "EM": 0.9592198581560284,
+      "TokenF1": 0.9592198581560284,
+      "BLEU1": 0.9592198581560284
+    },
+    {
+      "type": "Locate",
+      "n": 564,
+      "EM": 0.9184397163120568,
+      "TokenF1": 0.9273049645390071,
+      "BLEU1": 0.9273049645390071
+    },
+    {
+      "type": "Identify",
+      "n": 564,
+      "EM": 0.9343971631205674,
+      "TokenF1": 0.9343971631205674,
+      "BLEU1": 0.9343971631205674
+    },
+    {
+      "type": "Overall",
+      "n": 2256,
+      "EM": 0.9441489361702128,
+      "TokenF1": 0.9463652482269503,
+      "BLEU1": 0.9463652482269503
+    }
+  ],
+  "reference_policy": "GT used only for reference construction/scoring; SSR uses frozen detector cache."
+}

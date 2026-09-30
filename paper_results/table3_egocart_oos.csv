@@ -1,0 +1,6 @@
+Method,F1_pct,Specificity_pct,BA_pct,AUROC_pct,AUPRC_pct
+Always_positive,77.03,0.00,50.00,50.00,62.65
+RetailDet-style,77.02,0.17,50.04,52.72,64.91
+YOLO-RACE_adapted,76.97,0.26,50.01,51.85,64.13
+CVPCE-GLN_adapted,76.17,14.66,53.74,58.66,69.08
+SSR,78.64,60.70,70.30,68.97,81.20

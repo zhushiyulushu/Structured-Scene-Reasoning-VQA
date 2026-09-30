@@ -1,0 +1,19 @@
+{
+  "method": "SSR Full-Adapted",
+  "adaptation": "unlabeled_label_prior_shift",
+  "feature_variant": "current",
+  "selection": "threshold estimated from Train OOF TPR/FPR and unlabeled Test score mean",
+  "test_labels_used": false,
+  "train_positive_rate": 0.3285179640718563,
+  "mu_pos": 0.5225623440445242,
+  "mu_neg": 0.47651116765469925,
+  "mu_target_unlabeled": 0.49617705992518896,
+  "target_prior_raw": 0.4270442975010496,
+  "target_prior_frozen": 0.4270442975010496,
+  "threshold": 0.319,
+  "estimated_target_F1": 0.6002829212282214,
+  "estimated_TPR": 0.9947596263385737,
+  "estimated_FPR": 0.9835023966113031,
+  "estimated_precision": 0.42983126837434443,
+  "estimated_recall": 0.9947596263385737
+}

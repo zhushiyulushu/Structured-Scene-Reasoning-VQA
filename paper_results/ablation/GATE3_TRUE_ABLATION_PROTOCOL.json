@@ -1,0 +1,43 @@
+{
+  "seed": 42,
+  "purpose": "true controlled end-to-end ablation of the frozen revised SSR pipeline",
+  "dataset": "same SKU-110K train/validation/test split used by the main frozen experiment",
+  "test_scope": "entire seed42 test split; no hard/stress subset",
+  "primary_metric": "same end-to-end missing-region Precision/Recall/F1 as the main result",
+  "iou": 0.3,
+  "confidence_threshold": 0.03,
+  "ambiguity_margin": 0.12,
+  "structure_alpha": 0.5,
+  "detector": "same already-trained 20-epoch seed42 detector outputs for every row because none of these ablations changes the detector architecture or detector training",
+  "ranker_training": "every ablation that changes ranker inputs is retrained for exactly 25 epochs on the same source train cache; best epoch selected by the same source-validation top-1 rank-accuracy criterion",
+  "full_model": "uses the exact frozen ranker checkpoint from the main experiment, not a newly favorable retraining",
+  "reproduction_gate": {
+    "expected": {
+      "TP": 2650,
+      "FP": 40,
+      "FN": 212,
+      "F1": 0.9546109510086455
+    },
+    "observed": {
+      "N": 2862,
+      "Predictions": 2690,
+      "TP": 2650,
+      "FP": 40,
+      "FN": 212,
+      "Precision": 0.9851301115241635,
+      "Recall": 0.9259259259259259,
+      "F1": 0.9546109510086455
+    },
+    "pass": true
+  },
+  "variant_definitions": {
+    "w/o Learnable Structural Ranking": "replace the learned structural ranker with a fixed hand-crafted structural compatibility score while retaining the same proposal threshold, ambiguity gate, and visual-structural fusion",
+    "w/o Topology Context": "retrain the structural ranker using only global proposal geometry features [1..5]; same gate/fusion/evaluation",
+    "w/o Global Geometry": "retrain the structural ranker using only topology/local-context features [6..15,18]; same gate/fusion/evaluation",
+    "w/o Overlap Consistency": "retrain the ranker after removing overlap-consistency feature 18; same gate/fusion/evaluation",
+    "w/o Ambiguity-aware Gating": "use the exact full structural ranker and same visual-structural fusion, but apply reranking to every multi-candidate case instead of only visually ambiguous cases",
+    "w/o Structural Branch": "remove structural ranking entirely; use frozen visual-confidence Top1 under the same proposal threshold",
+    "Full SSR": "exact frozen seed42 pipeline"
+  },
+  "important_note": "No test subset, threshold, or evaluation rule is changed across rows. Do not tune these after observing ablation results."
+}

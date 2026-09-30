@@ -1,0 +1,49 @@
+{
+  "protocol": "Val-frozen balanced region-grounded VQA Test",
+  "n_samples": 2862,
+  "n_questions": 11448,
+  "questions_per_sample": 4,
+  "selected_on_val": {
+    "product_conf": 0.1,
+    "vertical_overlap": 0.2,
+    "distance_factor": 3.0
+  },
+  "ssr_summary": [
+    {
+      "type": "Count",
+      "n": 2862,
+      "EM": 0.9633123689727463,
+      "TokenF1": 0.9633123689727463,
+      "BLEU1": 0.9633123689727463
+    },
+    {
+      "type": "Verify",
+      "n": 2862,
+      "EM": 0.9636617749825297,
+      "TokenF1": 0.9636617749825297,
+      "BLEU1": 0.9636617749825297
+    },
+    {
+      "type": "Locate",
+      "n": 2862,
+      "EM": 0.9241788958770091,
+      "TokenF1": 0.929769392033543,
+      "BLEU1": 0.929769392033543
+    },
+    {
+      "type": "Identify",
+      "n": 2862,
+      "EM": 0.9346610761705101,
+      "TokenF1": 0.9346610761705101,
+      "BLEU1": 0.9346610761705101
+    },
+    {
+      "type": "Overall",
+      "n": 11448,
+      "EM": 0.9464535290006988,
+      "TokenF1": 0.9478511530398323,
+      "BLEU1": 0.9478511530398323
+    }
+  ],
+  "same_frozen_inputs_required_for_all_vlm_baselines": true
+}

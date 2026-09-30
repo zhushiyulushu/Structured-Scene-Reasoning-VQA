@@ -1,0 +1,16 @@
+# Copy this file and replace the placeholders with local paths.
+
+sku110k_root: /path/to/SKU110K
+egocart_root: /path/to/EgoCart
+
+output_root: ./outputs
+checkpoint_root: ./checkpoints
+
+# Optional external baselines
+yolo_race_root: /path/to/YOLO-RACE
+cvpce_root: /path/to/CVPCE
+
+# Optional VLM checkpoints
+blip_model: /path/to/blip-vqa-base
+qwen2_model: /path/to/Qwen2-VL-2B-Instruct
+llava_model: /path/to/llava-1.5-7b-hf

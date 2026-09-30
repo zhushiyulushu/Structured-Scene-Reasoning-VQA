@@ -1,0 +1,16 @@
+{
+  "seeds": [
+    42,
+    2024,
+    3407
+  ],
+  "Precision_mean": 0.9835555751490946,
+  "Precision_std": 0.0012013379845212011,
+  "Recall_mean": 0.9263918006056371,
+  "Recall_std": 0.00043578585916303054,
+  "F1_mean": 0.9541177135470743,
+  "F1_std": 0.0005039112564638971,
+  "target_reference_f1": 0.9504,
+  "success_gate_mean_f1_gt_0p9504": true,
+  "all_individual_f1_gt_0p9504": true
+}

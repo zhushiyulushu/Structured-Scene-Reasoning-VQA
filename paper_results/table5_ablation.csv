@@ -1,0 +1,8 @@
+Configuration,Delta_F1_pp
+w/o_Global_Geometry,-2.99
+w/o_Bilateral_Neighbor,-1.16
+w/o_Gap_Features,-2.03
+w/o_Overlap,-1.45
+w/o_Learned_Candidate_Ranking,-8.49
+w/o_Topology_Context,-19.29
+Full_SSR,0.00

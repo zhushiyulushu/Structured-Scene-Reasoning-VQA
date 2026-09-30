@@ -1,0 +1,7 @@
+Method,Precision_pct,Recall_pct,F1_pct
+Heuristic,15.99,40.29,22.90
+RetailDet-style,98.60±1.27,91.88±6.44,95.04±4.10
+YOLO-RACE_adapted,94.42±2.20,83.02±3.45,88.27±1.40
+CVPCE-GLN_adapted,98.57±0.72,89.93±0.77,94.04±0.43
+Reference-assisted_Planogram,92.47,84.94,88.54
+SSR,98.36±0.12,92.64±0.04,95.41±0.05

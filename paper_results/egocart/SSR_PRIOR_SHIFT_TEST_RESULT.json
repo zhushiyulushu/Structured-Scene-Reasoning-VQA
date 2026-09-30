@@ -1,0 +1,20 @@
+{
+  "TP": 3838,
+  "FP": 2261,
+  "FN": 28,
+  "TN": 44,
+  "Accuracy": 0.6290714632960622,
+  "Precision": 0.6292834890965732,
+  "Recall": 0.9927573719606829,
+  "Specificity": 0.01908893709327549,
+  "Balanced_Accuracy": 0.5059231545269792,
+  "F1": 0.7702960361264425,
+  "Negative_FPR": 0.9809110629067245,
+  "AUROC": 0.5897273970865649,
+  "AUPRC": 0.7132302782710398,
+  "Threshold": 0.319,
+  "Estimated_Target_Prior": 0.4270442975010496,
+  "Observed_Test_Positive_Rate": 0.6264786906498137,
+  "Success_F1_gt_07702": true,
+  "Nontrivial_BA_gt_050": true
+}

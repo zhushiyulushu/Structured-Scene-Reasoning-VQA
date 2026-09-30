@@ -1,5 +1,0 @@
-﻿Dataset,Samples,Recall,Precision,F1-score,Domain Shift,Best conf,Best close_k,Best dilate_k,Best min_area,Best tolerance,Val F1
-SKU-110K (source test set),2862,0.9726,0.9617,0.9671,0.0000,-,-,-,-,-,-
-GroZi-120,20,0.9555,0.7255,0.7729,0.2008,0.03,0,0,0,55,0.9592441623925368
-Grocery Products,121,0.2156,0.2222,0.1999,0.7933,0.25,0,0,50,55,0.9166659967094621
-WebMarket,39,0.7736,0.7614,0.7481,0.2264,0.18,0,0,0,55,0.7896143213864208

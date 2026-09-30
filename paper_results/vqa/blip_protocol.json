@@ -1,0 +1,49 @@
+{
+  "model": "blip",
+  "n_questions": 11448,
+  "decoding": "greedy",
+  "shared_prompt": true,
+  "shared_parser": true,
+  "summary": [
+    {
+      "type": "Count",
+      "n": 2862,
+      "EM": 0.02166317260656883,
+      "TokenF1": 0.02166317260656883,
+      "BLEU1": 0.02166317260656883,
+      "InvalidRate": 0.9577218728162125
+    },
+    {
+      "type": "Verify",
+      "n": 2862,
+      "EM": 0.4888190076869322,
+      "TokenF1": 0.4888190076869322,
+      "BLEU1": 0.4888190076869322,
+      "InvalidRate": 0.03494060097833683
+    },
+    {
+      "type": "Locate",
+      "n": 2862,
+      "EM": 0.0,
+      "TokenF1": 0.0,
+      "BLEU1": 0.0,
+      "InvalidRate": 1.0
+    },
+    {
+      "type": "Identify",
+      "n": 2862,
+      "EM": 0.0,
+      "TokenF1": 0.0,
+      "BLEU1": 0.0,
+      "InvalidRate": 1.0
+    },
+    {
+      "type": "Overall",
+      "n": 11448,
+      "EM": 0.12762054507337525,
+      "TokenF1": 0.12762054507337525,
+      "BLEU1": 0.12762054507337525,
+      "InvalidRate": 0.7481656184486373
+    }
+  ]
+}

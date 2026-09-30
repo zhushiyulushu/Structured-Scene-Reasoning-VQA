@@ -1,0 +1,31 @@
+{
+  "gate": "Gate0 runtime no-leak audit for revised frozen SSR",
+  "test_samples": 2862,
+  "predictions_emitted": 2690,
+  "prediction_identical_after_removing_all_gt_and_rowcol_metadata": true,
+  "prediction_identical_after_adversarial_gt_rowcol_metadata": true,
+  "structure_feature_indices_from_19d_detector_context": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    18
+  ],
+  "structure_branch_excludes_vacancy_and_neighbor_confidences": true,
+  "test_inference_requires_ground_truth_missing_bbox": false,
+  "test_inference_requires_ground_truth_row_col": false,
+  "test_ground_truth_role": "evaluation only",
+  "runtime_gate0_pass": true
+}
+GATE0_RUNTIME_AUDIT_PASS

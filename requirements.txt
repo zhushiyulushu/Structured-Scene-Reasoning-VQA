@@ -1,13 +1,1 @@
-numpy
-pandas
-scipy
-scikit-learn
-matplotlib
-opencv-python
-Pillow
-tqdm
-PyYAML
-torch
-torchvision
-transformers
-nltk
+-r environment/requirements_ssr_core_exact.txt

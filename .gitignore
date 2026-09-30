@@ -1,35 +1,31 @@
-# Python
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-.ipynb_checkpoints/
+*.py[cod]
+*.so
 
-# Environments
 .venv/
 venv/
-env/
-conda-env/
+envs/
 
-# Data and outputs
-data/
+.env
+*.secret
+*.token
+
+data/raw/
+data/processed/
+datasets/
+
 outputs/
-checkpoints/
-weights/
 runs/
 logs/
 
-# Large model/result files
+models/
+checkpoints/
+
 *.pt
 *.pth
-*.pkl
-*.h5
-*.onnx
-*.tar.gz
-*.zip
-*.rar
-*.7z
+*.ckpt
+*.bin
+*.safetensors
 
-# System files
 .DS_Store
 Thumbs.db

@@ -1,5 +1,0 @@
-﻿Method,Recall,Precision,F1-score
-Heuristic (Rule-based),0.4029 ± 0.0000,0.1599 ± 0.0000,0.2290 ± 0.0000
-Baseline RetailDet (Visual),0.9188 ± 0.0644,0.9860 ± 0.0127,0.9504 ± 0.0410
-Baseline GT-Planogram Alignment,0.8494 ± 0.0000,0.9247 ± 0.0000,0.8854 ± 0.0000
-Ours / Our SSR Grid,0.9726 ± 0.0157,0.9617 ± 0.0249,0.9671 ± 0.0204

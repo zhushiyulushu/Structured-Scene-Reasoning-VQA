@@ -1,0 +1,5 @@
+Method,Count_EM,Verify_EM,Locate_EM,Reference_Attribution_EM,Overall_EM
+BLIP,2.17,48.88,0.00,0.00,12.76
+Qwen2-VL-2B-Instruct,39.17,46.40,14.47,0.14,25.04
+LLaVA-1.5-7B-HF,50.49,51.50,10.27,0.10,28.09
+SSR,96.33,96.37,92.42,93.47,94.65

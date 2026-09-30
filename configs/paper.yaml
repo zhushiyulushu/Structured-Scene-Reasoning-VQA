@@ -1,0 +1,15 @@
+source_protocol:
+  image_size: 640
+  vacancy_confidence_threshold: 0.03
+  internal_detector_confidence: 0.001
+  product_confidence_threshold: 0.30
+  ambiguity_margin: 0.12
+  structural_weight: 0.50
+
+structural_ranker:
+  input_dim: 16
+  hidden_dims: [64, 32]
+  feature_indices: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 18]
+
+evaluation:
+  source_seeds: [42, 2024, 3407]

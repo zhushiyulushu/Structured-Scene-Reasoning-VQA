@@ -1,0 +1,11 @@
+{
+  "test_tuning": false,
+  "frame_adapter": "one logistic calibration head per method, trained on official EgoCart Train only",
+  "SSR": "frozen source vacancy detector + product detections + predicted-NGI DSI proposals when loadable + geometry topology proposals + train-only frame calibrator",
+  "structure_subset": "input-only applicability subset: >=12 product detections, >=2 dense rows, horizontal product span >=35%; no EgoCart Test GT used",
+  "strict_point_localization": "reported only as diagnostic because EgoCart supplies approximate OOS center points rather than boxes",
+  "assets": {
+    "ssr": "6b10ebb84b915ce4ebddd53c4e392ae11ea5890d955bbd548a38ca31e657b01f",
+    "ngi": "73238a05dda0daa1b7956f692cbc30733ced8d079db4e31239dd4e93a6f02a96"
+  }
+}

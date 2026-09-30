@@ -1,0 +1,62 @@
+{
+  "protocol": "confidence-free listwise structural ranker; geometry/topology features only; intervention on visually ambiguous images; all selection on source val",
+  "seed": 42,
+  "removed_from_structure_branch": [
+    "vacancy_confidence",
+    "left_product_confidence",
+    "right_product_confidence"
+  ],
+  "listwise_val_rank_acc": 0.9316888045540797,
+  "conf_only_val": {
+    "conf_thr": 0.03,
+    "TP": 521,
+    "FP": 11,
+    "FN": 43,
+    "Precision": 0.9793233082706767,
+    "Recall": 0.9237588652482269,
+    "F1": 0.9507299270072992,
+    "changed": 0,
+    "corrected": 0,
+    "harmed": 0
+  },
+  "structure_selected_val": {
+    "conf_thr": 0.03,
+    "margin": 0.12,
+    "alpha": 0.5,
+    "TP": 522,
+    "FP": 10,
+    "FN": 42,
+    "Precision": 0.981203007518797,
+    "Recall": 0.925531914893617,
+    "F1": 0.9525547445255474,
+    "changed": 3,
+    "corrected": 1,
+    "harmed": 0
+  },
+  "structural_gate_changed_corrected_and_improved_val": true,
+  "target_reference_f1": 0.9504,
+  "conf_only_test": {
+    "TP": 2650,
+    "FP": 40,
+    "FN": 212,
+    "Precision": 0.9851301115241635,
+    "Recall": 0.9259259259259259,
+    "F1": 0.9546109510086455,
+    "changed": 0,
+    "corrected": 0,
+    "harmed": 0
+  },
+  "structure_test": {
+    "TP": 2650,
+    "FP": 40,
+    "FN": 212,
+    "Precision": 0.9851301115241635,
+    "Recall": 0.9259259259259259,
+    "F1": 0.9546109510086455,
+    "changed": 13,
+    "corrected": 2,
+    "harmed": 2
+  },
+  "success_gate_structure_test_gt_0p9504": true,
+  "structure_improves_test_over_conf_only": false
+}

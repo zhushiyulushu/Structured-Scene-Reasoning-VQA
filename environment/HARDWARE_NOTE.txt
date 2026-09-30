@@ -1,0 +1,8 @@
+Final experiment instance:
+AutoDL instance ID prefix: e4254eb262-1671d451
+Configured GPU instance: NVIDIA RTX 4090D 24GB
+CPU: 16 vCPU Intel Xeon Platinum 8352S
+Memory: 62GB
+
+This archive was finalized in CPU/no-GPU mode.
+GPU information refers to the experiment instance configuration, not the archival session.

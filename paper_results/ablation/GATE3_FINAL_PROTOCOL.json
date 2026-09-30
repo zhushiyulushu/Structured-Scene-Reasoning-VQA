@@ -1,0 +1,19 @@
+{
+  "seed": 42,
+  "dataset": "same SKU-110K train/validation/test split and same frozen detector-prediction caches as the main experiment",
+  "purpose": "stage-specific ablation of the learned structural decision module",
+  "candidate_source": "same frozen detector cache as the main experiment",
+  "training_candidate_floor": 0.001,
+  "evaluation_candidate_floor": 0.001,
+  "minimum_candidates_per_case": 3,
+  "case_selection_uses_gt": false,
+  "rankable_condition": "GT is used only to identify whether the frozen detector included at least one correct proposal, and to score the selected proposal; GT never enters inference.",
+  "primary_metric": "Test_StructuralF1 = top-1 structural candidate-selection F1 on rankable proposal-rich cases. Exactly one proposal is selected for one target, so precision=recall=F1=selection accuracy.",
+  "secondary_metric": "Test_AllStressF1 includes detector-unrecoverable stress cases and is reported for completeness.",
+  "iou": 0.3,
+  "ranker_epochs": 25,
+  "ranker_optimizer": "AdamW(lr=1e-3, weight_decay=1e-4)",
+  "model_selection": "same source-validation top-1 rank accuracy criterion for every learned ablation",
+  "full_model": "exact frozen listwise structural ranker used by the final main method",
+  "important_note": "Protocol fixed before reading these results. Do not retune thresholds, candidate count, IoU, or feature groups to target a desired numeric range."
+}

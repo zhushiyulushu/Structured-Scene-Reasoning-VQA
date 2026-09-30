@@ -1,248 +1,128 @@
-\# Learning Structured Scene Representations for Visual Question Answering
+# Learning Structured Scene Representations for Visual Question Answering
 
+Official reproducibility repository for the manuscript:
 
+**Learning Structured Scene Representations for Visual Question Answering**
 
-This repository provides the implementation of \*\*Structured Scene Reasoning (SSR)\*\* for dense structured visual question answering. SSR converts unordered visual detections into a learnable row-column topological representation and performs missing-region reasoning for structured shelf scenes.
+This repository implements **Structured Scene Reasoning (SSR)** for
+absence-aware reasoning in dense structured shelf scenes.
 
+## Method overview
 
+SSR follows the pipeline:
 
-The project targets structured VQA for missing-region analysis and replenishment, rather than open-ended caption generation.
+1. visual product and vacancy perception;
+2. sinusoidal spatial encoding and Neural Grid Inference (NGI);
+3. row-column structural representation;
+4. 16-dimensional structural candidate description;
+5. learned structural candidate ranking;
+6. ambiguity-aware visual/structural decision;
+7. grounded relational representation and structured answering.
 
+The final structural ranker uses a 16 -> 64 -> 32 -> 1 MLP.
+Visual confidence is kept separate from the structural score.
+Structural evidence is used when competing visual candidates are ambiguous.
 
+## Repository structure
 
-\## Overview
+- `src/`: reusable SSR source modules and data-preparation utilities.
+- `configs/`: paper parameters and path templates.
+- `paper_results/`: final numerical evidence reported in the manuscript.
+- `environment/`: exact Python package snapshots.
+- `scripts/`: portable result-verification utilities.
+- `reproducibility/original_autodl_scripts/`: exact scripts used on the
+  original AutoDL machine for experimental provenance.
 
+Raw datasets, generated intermediate data, prediction caches, downloaded
+VLM checkpoints and training environments are intentionally not included.
 
+## Datasets
 
-SSR follows a structured pipeline:
+The paper uses:
 
+- SKU-110K for controlled source-domain localization and structured VQA.
+- EgoCart for natural frame-level out-of-stock evaluation.
 
+Obtain the datasets from their original distributions and configure local
+paths using `configs/paths.example.yaml`.
 
-1\. Open-vocabulary object detection and local semantic-spatial aggregation.
+## Installation
 
-2\. Sinusoidal Spatial Embedding (SSE) for spatial representation.
+Core SSR dependencies are recorded in:
 
-3\. Neural Grid Inference (NGI) for row-column topology learning.
+    environment/requirements_ssr_core_exact.txt
 
-4\. Directional Structure Induction (DSI) for missing-region reasoning.
+Install them with:
 
-5\. Slot-based structured answer synthesis for controlled VQA queries.
+    pip install -r requirements.txt
 
+The VLM-baseline environment is recorded separately in:
 
+    environment/requirements_vlm_exact.txt
 
-The repository contains the source code used for preprocessing, training, localization evaluation, cross-domain evaluation, ablation study, structured answer-quality evaluation, and result visualization.
+## Final paper results
 
+### SKU-110K localization
 
+SSR:
+- Precision: 98.36 +/- 0.12 %
+- Recall: 92.64 +/- 0.04 %
+- F1: 95.41 +/- 0.05 %
 
-\## Repository Structure
+### EgoCart natural OOS evaluation
 
+SSR:
+- F1: 78.64 %
+- Specificity: 60.70 %
+- Balanced Accuracy: 70.30 %
+- AUROC: 68.97 %
+- AUPRC: 81.20 %
 
+### Structured VQA
 
-```text
+SSR:
+- Locate EM: 92.42 %
+- Overall EM: 94.65 %
 
-configs/          Configuration files.
+### Multi-candidate ablation
 
-docs/             Notes, file manifests, and reproducibility documents.
+Relative to Full SSR:
+- without learned candidate ranking: -8.49 F1 points;
+- without topology context: -19.29 F1 points.
 
-paper\_results/    Small CSV result files used in the paper.
+The complete frozen tables are stored under `paper_results/`.
 
-scripts/          Helper scripts for running experiments.
+## Verify released results
 
-src/              Source code for preprocessing, training, evaluation, and visualization.
+Run:
 
-README.md         Repository documentation and usage instructions.
+    python scripts/verify_paper_results.py
 
-requirements.txt  Python dependencies.
+This does not retrain the model. It verifies that the released paper tables
+contain the values frozen for the manuscript.
 
-```
+## Reproducibility and provenance
 
+Exact historical launch scripts are retained under:
 
+    reproducibility/original_autodl_scripts/
 
-Large datasets, processed images, model checkpoints, detector weights, and full output folders are not included in this repository.
+They intentionally retain the absolute paths of the original AutoDL
+environment. They are preserved for auditability and are not intended as
+portable entry points.
 
+Portable source modules are provided under `src/`.
 
+See `docs/REPRODUCIBILITY.md` for details.
 
-\## Environment Setup
+## Data-leakage control
 
+Source Test target annotations are used only by the evaluator.
+The final runtime no-leak audit evidence is included in
+`paper_results/source/`.
 
+## Third-party resources
 
-Create a Python environment:
-
-
-
-```bash
-
-conda create -n ssr-vqa python=3.10 -y
-
-conda activate ssr-vqa
-
-pip install -r requirements.txt
-
-```
-
-
-
-The experiments in the paper were run on an AutoDL node with an NVIDIA RTX 3090 GPU.
-
-
-
-\## Data Preparation
-
-
-
-This repository does not include raw datasets due to size and license restrictions.
-
-
-
-The expected data structure is:
-
-
-
-```text
-
-data/
-
-├── SKU-110K/
-
-├── GapDetection/
-
-└── processed/
-
-```
-
-
-
-The main experiments use SKU-110K with a controlled topological masking protocol. Existing product annotations are organized into approximate row-column layouts. Objects with sufficient neighboring context are masked, and their original boxes are retained as ground-truth missing regions. This creates controlled missing-object samples without extra manual vacancy annotations.
-
-
-
-External Gap Detection subsets are used for cross-domain evaluation.
-
-
-
-\## Main Experimental Pipeline
-
-
-
-The complete experimental pipeline includes:
-
-
-
-1\. Preparing controlled missing-object samples from SKU-110K.
-
-2\. Training the learnable grid-completion branch.
-
-3\. Evaluating localization baselines and the full SSR model.
-
-4\. Running cross-domain evaluation on Gap Detection subsets.
-
-5\. Running ablation studies.
-
-6\. Evaluating structured answer quality.
-
-7\. Generating paper tables and figures.
-
-
-
-Please check the scripts under `scripts/` and modules under `src/` for the corresponding implementation.
-
-
-
-\## Structured VQA Answer Quality Evaluation
-
-
-
-SKU-110K does not provide human-written VQA annotations. Therefore, structured VQA references are automatically constructed from the controlled topological masking protocol. Each reference answer is derived from the ground-truth missing region, row-column position, and neighboring structural context.
-
-
-
-Run structured answer-quality evaluation for three independent runs:
-
-
-
-```bash
-
-for s in 42 2024 3407
-
-do
-
-&#x20; python -m src.eval.eval\_vqa\_answer\_quality \\
-
-&#x20;   --qa-jsonl data/processed/vqa/test\_qa.jsonl \\
-
-&#x20;   --ours-json outputs/results/ours\_ssr\_grid\_test\_seed\_${s}.json \\
-
-&#x20;   --out-summary outputs/tables/table5\_vqa\_answer\_quality\_seed\_${s}.csv \\
-
-&#x20;   --out-detail outputs/results/table5\_vqa\_answer\_quality\_detail\_seed\_${s}.csv
-
-done
-
-```
-
-
-
-The reported metrics include normalized Answer Exact Match, Token-F1, and BLEU-1. BLEU-4 and CIDEr are not used because the generated answers are short structured responses rather than long free-form captions with multiple human references.
-
-
-
-\## Paper Results
-
-
-
-Small paper-level CSV results are stored in:
-
-
-
-```text
-
-paper\_results/
-
-```
-
-
-
-These files summarize the main localization, cross-domain, ablation, and structured answer-quality results used in the paper.
-
-
-
-Full intermediate outputs are excluded from GitHub and should be stored separately in the experiment backup archive.
-
-
-
-\## Reproducibility Notes
-
-
-
-To reproduce the experiments from scratch, users need to prepare the required datasets and follow the same preprocessing and topological masking protocol.
-
-
-
-This repository is intended for code release and paper-level reproducibility. It does not include raw datasets, processed images, detector weights, large model checkpoints, or complete AutoDL output folders.
-
-
-
-\## Citation
-
-
-
-If you use this code, please cite the corresponding paper:
-
-
-
-```bibtex
-
-@article{ssr\_vqa\_2026,
-
-&#x20; title={Learning Structured Scene Representations for Visual Question Answering},
-
-&#x20; author={Fan, Miao and Zhu, Shiyu and Ma, Chen and Xiong, Haoyi},
-
-&#x20; year={2026}
-
-}
-
-```
-
-
-
+Datasets, pretrained vision-language models and third-party baseline
+implementations retain their respective original licenses and should be
+obtained from their original sources.

@@ -1,0 +1,18 @@
+{
+  "RetailDet-style Visual": {
+    "threshold": 0.32499999999999996,
+    "train_F1": 0.4948418738373076
+  },
+  "YOLO-RACE Adapted": {
+    "threshold": 0.42499999999999993,
+    "train_F1": 0.4946139529637358
+  },
+  "CVPCE-GLN Adapted": {
+    "threshold": 0.42499999999999993,
+    "train_F1": 0.4989180834621329
+  },
+  "SSR Full-Adapted": {
+    "threshold": 0.43499999999999994,
+    "train_F1": 0.5042629049759727
+  }
+}
